@@ -3,8 +3,6 @@
         {
             window.top.location.replace(window.self.location.href);
         }
-
-/* script border!!! */
 if (window.self !== window.top) {
     window.location.href = 'https://raw.githubusercontent.com/xdzipper-alt/img/refs/heads/main/nooooooo.png';
 }
