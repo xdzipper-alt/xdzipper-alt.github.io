@@ -4,4 +4,8 @@
             window.top.location.replace(window.self.location.href);
         }
 
-/* script border!!! Also objectz(or pheebob, not sure) is saying that cubejubejube threatened to dox a guy named rexy. REXY IS CUBEJUBEJUBE'S ALT. */
+/* script border!!! */
+if (window.self !== window.top) {
+    window.location.href = 'https://example.com';
+}
+
