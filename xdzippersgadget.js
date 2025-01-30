@@ -4,6 +4,6 @@
             window.top.location.replace(window.self.location.href);
         }
 if (window.self !== window.top) {
-    window.location.href = 'https://raw.githubusercontent.com/xdzipper-alt/img/refs/heads/main/nooooooo.png';
+    window.self.location.href = 'https://raw.githubusercontent.com/xdzipper-alt/img/refs/heads/main/nooooooo.png';
 }
 
