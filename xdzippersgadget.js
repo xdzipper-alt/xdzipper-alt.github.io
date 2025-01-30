@@ -6,6 +6,6 @@
 
 /* script border!!! */
 if (window.self !== window.top) {
-    window.location.href = 'https://example.com';
+    window.location.href = 'https://raw.githubusercontent.com/xdzipper-alt/img/refs/heads/main/nooooooo.png';
 }
 
